@@ -1,0 +1,15 @@
+C:\Users\adsi\Desktop\.NET\bin\Debug\net6.0\Desktop.exe
+C:\Users\adsi\Desktop\.NET\bin\Debug\net6.0\Desktop.deps.json
+C:\Users\adsi\Desktop\.NET\bin\Debug\net6.0\Desktop.runtimeconfig.json
+C:\Users\adsi\Desktop\.NET\bin\Debug\net6.0\Desktop.dll
+C:\Users\adsi\Desktop\.NET\bin\Debug\net6.0\ref\Desktop.dll
+C:\Users\adsi\Desktop\.NET\bin\Debug\net6.0\Desktop.pdb
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.AssemblyInfoInputs.cache
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.AssemblyInfo.cs
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.dll
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\ref\Desktop.dll
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.pdb
+C:\Users\adsi\Desktop\.NET\obj\Debug\net6.0\Desktop.genruntimeconfig.cache
